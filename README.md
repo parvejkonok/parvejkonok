@@ -215,7 +215,6 @@
 </tr>
 </table> 
 
-
 <table>
 <tr>
 
@@ -269,7 +268,7 @@
 
 <td valign="top" width="33%">
 
-#### IDE & Version Control
+### IDE & Version Control
 <div align="center">  
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -302,7 +301,7 @@
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTroU91FLk1e5CTmveZCstER9A-qLpJGNtZvA&s" alt="Excel" width="40" height="40"/></a>
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png](https://media.licdn.com/dms/image/v2/D4E33AQHJ2njQGdDNdQ/productpage-image_1128_635/productpage-image_1128_635/0/1684483915227/vista_company_tableau_image?e=2147483647&v=beta&t=NoYRK-BukpDLO-GOpVfdD18mrSpvb9lkZ8R8UVHhe0M" alt="Tableau" width="40" height="40"/>
 </a>
 <a href="https://www.google.com/sheets" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/1498px-Google_Sheets_logo_%282014-2020%29.svg.png" alt="Google Sheets" width="40" height="40"/>
@@ -312,7 +311,7 @@
 </td>
 <td valign="top" width="33%">
 
-### Software
+### Other Useful Softwares
 <div align="center">  
  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
