@@ -301,7 +301,11 @@
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTroU91FLk1e5CTmveZCstER9A-qLpJGNtZvA&s" alt="Excel" width="40" height="40"/></a>
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://media.licdn.com/dms/image/v2/D4E33AQHJ2njQGdDNdQ/productpage-image_1128_635/productpage-image_1128_635/0/1684483915227/vista_company_tableau_image?e=2147483647&v=beta&t=NoYRK-BukpDLO-GOpVfdD18mrSpvb9lkZ8R8UVHhe0M" alt="Tableau" width="40" height="40"/>
+    <img src="https://media.licdn.com/dms/image/v2/D4E33AQHJ2njQGdDNdQ/productpage-image_1128_635/productpage-image_1128_635/0/1684483915227/vista_company_tableau_image?e=2147483647&v=beta&t=NoYRK-BukpDLO-GOpVfdD18mrSpvb9lkZ8R8UVHhe0M" alt="Tableau" width="70" height="40"/>
+</a>
+<a href="www.stata.com/" target="_blank" rel="nonreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQboJLnKAAUMYfDceo_9LbUaZN35xmavaGAKw&s" alt="Stata" width="50" height="40"/> 
+</a>
+<a href="www.minitab.com/en-us/" target="_blank" rel="nonreferrer"> <img src="https://store-images.s-microsoft.com/image/apps.36457.e7df6286-17d4-4db2-bb27-02d7acc3b651.fc64c331-dc1a-435d-9036-e4bad1e4a830.5884d16b-48b8-4ea3-9115-b8bac81b73c1" alt="Minitab" width="40" height="40"/> 
 </a>
 <a href="https://www.google.com/sheets" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/1498px-Google_Sheets_logo_%282014-2020%29.svg.png" alt="Google Sheets" width="40" height="40"/>
