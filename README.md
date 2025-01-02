@@ -378,6 +378,7 @@
 <a href="https://linkedin.com/in/parvejkonok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parvejkonok" height="30" width="40" /></a>
 <a href="https://x.com/parvej_konok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parvejkonok" height="30" width="40" /></a>
 <a href="https://parvejkonok.medium.com" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*psYl0y9DUzZWtHzFJLIvTw.png" alt="parvejkonok" height="40" width="40" /></a>
+<a href="https:parvejkonok.github.io/portfolio" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/thumbnails/003/731/316/small_2x/web-icon-line-on-white-background-image-for-web-presentation-logo-icon-symbol-free-vector.jpg" alt="portfolio" height="30" width="40" /></a>
 
 </a>
 </p>
