@@ -375,8 +375,8 @@
 
 <h3 align="middle">Connect with me</h3>
 <p align="middle">
-<a href="https://linkedin.com/in/parvejkonok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parvejkonok" height="30" width="40" /></a>
-<a href="https://x.com/parvej_konok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parvejkonok" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/parvejkonok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parvejkonok" height="40" width="40" /></a>
+<a href="https://x.com/parvej_konok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parvejkonok" height="40" width="40" /></a>
 <a href="https://parvejkonok.medium.com" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2997/PNG/512/medium_logo_icon_187624.png" height="40" width="40" /></a>
 <a href="https://parvejkonok.github.io/portfolio/" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-file-globe-icon-svg-wikimedia-commons-21.png" alt="portfolio" height="40" width="40" /></a>
 
