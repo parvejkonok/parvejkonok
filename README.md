@@ -325,11 +325,11 @@
 </td></tr></table>  
 
 
+<!--
 <div align="center">
 <h3>Leave Your Nice Thoughts In My Guest Book!</h3>
 <a href="https://github.com/parvejkonok/parvejkonok/issues"><img src="https://cdn3d.iconscout.com/3d/premium/thumb/guest-book-3d-icon-download-in-png-blend-fbx-gltf-file-formats--wedding-reception-decoration-graduation-pack-school-education-icons-9684861.png?f=webp" alt="Guest book" align="center" width="70" height="100"></a>
-</div>
-
+</div> -->
 
 <h3 align="middle">Connect with me</h3>
 <p align="middle">
